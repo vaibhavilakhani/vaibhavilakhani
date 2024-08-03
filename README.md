@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhavi Lakhani!
 - 👀 I’m interested in research and data analysis!
 - 🌱 I’m currently majoring in Economics with a minor in Data Science
-- 💞️ I’m looking to collaborate on projects in the realm of finance and economics. 
+- 🤝🏼 looking to collaborate on projects in the realm of finance and economics. 
 - ⚡ Fun fact: I am also a writer by passion. I write poetries!
 - ✌🏻 Looking forward to connecting with y'all!
 <!---
